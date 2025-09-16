@@ -1,2 +1,4 @@
-# awesome-lamina
-Awesome list for Lamina
+# Awesome Lamina
+
+> Lamina Repo itself! 
+https://github.com/SkuldNorniern/lamina
